@@ -17,7 +17,7 @@ The given scripts are written in Python and serve different purposes:
 
 3. **generate_urls.py**, **generate_urls.cpp**:
    - This script generates all possible combinations of YouTube Shorts URLs.
-   - It uses the "itertools" module and generates combinations of the given character list.
+   - It uses the "itertools" module and generates combinations of the given character list. (the c++ script does it manually)
    - The combinations are assembled into complete YouTube Shorts URLs ("https://www.youtube.com/shorts/{combination}").
    - The generated combinations are written to the "possible_urls.txt" file.
 
