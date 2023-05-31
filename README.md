@@ -22,3 +22,5 @@ The given scripts are written in Python and serve different purposes:
    - The generated combinations are written to the "possible_urls.txt" file.
 
 These scripts work together to collect, manage, and generate YouTube Shorts URLs. The scraping script collects the URLs, the management script processes them, and the generation script creates new URLs.
+
+It's important to note that these scripts were developed purely for educational purposes and do not serve any practical or functional use beyond the exploration of parallelization and memory management.
